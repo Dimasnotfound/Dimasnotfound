@@ -15,6 +15,8 @@
   <a href="https://github.com/Dimasnotfound">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimasnotfound&theme=algolia&hide_border=false"/>
   </a>
+<a href="https://github.com/Dimasnotfound">
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dimasnotfound&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimasnotfound&theme=radical&show_icons=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
 
