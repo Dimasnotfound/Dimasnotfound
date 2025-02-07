@@ -11,12 +11,6 @@
 # Some of my Github Stats
 <p align='left'> <img src='https://komarev.com/ghpvc/?username=Dimasnotfound&style=flat-square&color=blueviolet' alt='Dimasnotfound' /> </p>
 
-<p align="left">
-  <a href="https://github.com/Dimasnotfound">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimasnotfound&theme=algolia&hide_border=false"/>
-  </a>
-<a href="https://github.com/Dimasnotfound">
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dimasnotfound&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dimasnotfound&theme=midnight-purple&card_height=190)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimasnotfound&theme=midnight-purple&show_icons=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5)
 
