@@ -1,3 +1,3 @@
 # 👋 Hello, I'm Dimas Juli Pratama
 
-💻 **Tech Enthusiast**
+💻 **Semacam Fullstack Programmer**
