@@ -20,7 +20,6 @@ I build clean web interfaces, reliable backend services, cross-platform mobile a
 
 ![PostgreSQL, MySQL, SQLite, Redis, Prisma, PyTorch, TensorFlow, OpenCV, Docker, Git, GitHub, Bash, and PowerShell](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,prisma,pytorch,tensorflow,opencv,docker,git,github,bash,powershell&perline=13)
 
-**Also worked with:** Fastify, BullMQ, Jupyter Notebook, Ultralytics YOLO, scikit-learn, Pandas, NumPy, Pygame, D3.js, Camunda, Provider, BLoC, and GetX.
 
 ---
 
