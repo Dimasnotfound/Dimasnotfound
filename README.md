@@ -2,7 +2,7 @@
 
 **Full-Stack Developer and Informatics graduate from the University of Jember.**
 
-I build clean web interfaces, reliable backend services, cross-platform mobile applications, and practical AI-assisted tools.
+I build clean web interfaces, pixel perfect, reliable backend services, cross-platform mobile applications, and practical AI-assisted tools.
 
 [Portfolio](https://portofolio-dusky-iota.vercel.app/) · [GitHub](https://github.com/Dimasnotfound) · [LinkedIn](https://www.linkedin.com/in/dimas-pratama-5177a6270) · [Email](mailto:hello@dp436.dev)
 
