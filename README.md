@@ -1,14 +1,15 @@
-# 👋 Hello, I'm Dimas Juli Pratama
+# Hi, I'm Dimas Juli Pratama 👋
 
-💻 **Semacam Fullstack Programmer dan Orang-Orangan AI**
+**Full-Stack Developer and Informatics graduate from the University of Jember.**
 
-## Portfolio
-https://portofolio-dusky-iota.vercel.app
+I build clean web interfaces, reliable backend services, cross-platform mobile applications, and practical AI-assisted tools.
 
-## Tools
-1. Image Linker : https://image-linker-f8p5.vercel.app/ (free upload image and use)
-2. Instagram Image Grid Splitter : https://dimasnotfound.github.io/image-grid-splitter/
-3. ESC/P HEX -> Printer Dot Matrix Preview : https://dot-matrix-preview-react-732uhyyan.vercel.app/ (preview printer dot matrix)
+[Portfolio](https://portofolio-dusky-iota.vercel.app/) · [GitHub](https://github.com/Dimasnotfound) · [LinkedIn](https://www.linkedin.com/in/dimas-pratama-5177a6270) · [Email](mailto:hello@dp436.dev)
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=Dimasnotfound&color=blue&label=Profile+Views)
+## Tech Stack
 
+![React, Next.js, TypeScript, Node.js, Go, Python, PostgreSQL, Tailwind CSS, and Flutter](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,go,python,postgres,tailwind,flutter&perline=9)
+
+---
+
+![GitHub profile view counter](https://komarev.com/ghpvc/?username=Dimasnotfound&color=blue&label=Profile+Views)
