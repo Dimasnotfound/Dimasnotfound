@@ -8,7 +8,19 @@ I build clean web interfaces, reliable backend services, cross-platform mobile a
 
 ## Tech Stack
 
-![React, Next.js, TypeScript, Node.js, Go, Python, PostgreSQL, Tailwind CSS, and Flutter](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,go,python,postgres,tailwind,flutter&perline=9)
+**Frontend & Mobile**
+
+![HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, Flutter, and Dart](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,flutter,dart&perline=10)
+
+**Backend & Languages**
+
+![Node.js, Go, Python, FastAPI, Flask, PHP, Laravel, Java, Spring, C Sharp, .NET, and C++](https://skillicons.dev/icons?i=nodejs,go,python,fastapi,flask,php,laravel,java,spring,cs,dotnet,cpp&perline=12)
+
+**Data, AI & Tools**
+
+![PostgreSQL, MySQL, SQLite, Redis, Prisma, PyTorch, TensorFlow, OpenCV, Docker, Git, GitHub, Bash, and PowerShell](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,prisma,pytorch,tensorflow,opencv,docker,git,github,bash,powershell&perline=13)
+
+**Also worked with:** Fastify, BullMQ, Jupyter Notebook, Ultralytics YOLO, scikit-learn, Pandas, NumPy, Pygame, D3.js, Camunda, Provider, BLoC, and GetX.
 
 ---
 
