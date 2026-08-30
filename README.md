@@ -4,7 +4,7 @@
 
 I build clean web interfaces, pixel perfect, reliable backend services, cross-platform mobile applications, and practical AI-assisted tools.
 
-[Portfolio](https://portofolio-dusky-iota.vercel.app/) · [GitHub](https://github.com/Dimasnotfound) · [LinkedIn](https://www.linkedin.com/in/dimas-pratama-5177a6270) · [Email](mailto:hello@dp436.dev)
+[Portfolio](https://dimasjuli.primacodes.com/) · [GitHub](https://github.com/Dimasnotfound) · [LinkedIn](https://www.linkedin.com/in/dimas-pratama-5177a6270) · [Email](mailto:dimasjuli.work@gmail.com)
 
 ## Tech Stack
 
